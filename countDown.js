@@ -1,5 +1,4 @@
 var endDate = new Date("Feb 1 2021").getTime();
-console.log(endDate)
 
 var timer = setInterval(() => {
     let now = new Date().getTime();
